@@ -1,0 +1,11 @@
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\bin\Debug\netcoreapp2.1\MedicalReadings.deps.json
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\bin\Debug\netcoreapp2.1\MedicalReadings.runtimeconfig.json
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\bin\Debug\netcoreapp2.1\MedicalReadings.runtimeconfig.dev.json
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\bin\Debug\netcoreapp2.1\MedicalReadings.dll
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.csproj.CoreCompileInputs.cache
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.AssemblyInfoInputs.cache
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.AssemblyInfo.cs
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\bin\Debug\netcoreapp2.1\MedicalReadings.pdb
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.dll
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.pdb
+C:\Users\PC33425\Desktop\MedicalReadings\MedicalReadings\obj\Debug\netcoreapp2.1\MedicalReadings.csprojAssemblyReference.cache

@@ -5516,11 +5516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingInputResponse\\TestingInputResponse.csproj",
-      "projectName": "TestingInputResponse",
-      "projectPath": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingInputResponse\\TestingInputResponse.csproj",
+      "projectUniqueName": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingFunctionBuilds\\TestingFunctionBuilds.csproj",
+      "projectName": "TestingFunctionBuilds",
+      "projectPath": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingFunctionBuilds\\TestingFunctionBuilds.csproj",
       "packagesPath": "C:\\Users\\PC33425\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingInputResponse\\obj\\",
+      "outputPath": "C:\\Users\\PC33425\\Desktop\\MedicalReadings\\TestingFunctionBuilds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

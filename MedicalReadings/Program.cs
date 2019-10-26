@@ -21,7 +21,6 @@ namespace MedicalReadings
             {
                 return;
             }
-            //write to a .txt file here
             List<BloodPressure> bloodPressureCollectionInput = JsonConvert.DeserializeObject<List<BloodPressure>>(BPObj);
             var Pressure1 = bloodPressureCollectionInput[bloodPressureCollectionInput.Count - 1].SysBP;
             var Pressure2 = bloodPressureCollectionInput[bloodPressureCollectionInput.Count - 1].DiaBP;
@@ -51,12 +50,10 @@ namespace MedicalReadings
                 + $"{Pressure2}"
                 + ", at input date: "
                 + $"{PressureDate}");
-
             return;
         }
     }
-
-    public static class KidneyTestReading
+    public class KidneyTestReading
     {
         public static void KidneyTest()
         {
@@ -124,7 +121,6 @@ namespace MedicalReadings
             }
         }
     }
-
     public class Initialize
     {
         public static void Input(string a)
@@ -143,7 +139,6 @@ namespace MedicalReadings
             }
         }
     }
-
     public class Program
     {
         static public void Main(string[] args)
@@ -151,7 +146,6 @@ namespace MedicalReadings
             Console.WriteLine("Please enter BP to input blood pressure data or KD to enter Kidney Disease data:");
             Console.WriteLine("Enter 'exit' to exit the system.");
             string readChoice = Console.ReadLine();
-
             Initialize.Input(readChoice);
         }
     }

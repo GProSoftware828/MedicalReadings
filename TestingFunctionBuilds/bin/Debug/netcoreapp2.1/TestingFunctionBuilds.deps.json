@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "TestingInputResponse/1.0.0": {
+      "TestingFunctionBuilds/1.0.0": {
         "dependencies": {
           "MedicalReadings": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.8.0",
@@ -14,7 +14,7 @@
           "NUnit": "3.10.1"
         },
         "runtime": {
-          "TestingInputResponse.dll": {}
+          "TestingFunctionBuilds.dll": {}
         }
       },
       "Microsoft.CodeCoverage/15.8.0": {
@@ -978,7 +978,7 @@
     }
   },
   "libraries": {
-    "TestingInputResponse/1.0.0": {
+    "TestingFunctionBuilds/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

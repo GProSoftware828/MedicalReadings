@@ -18,7 +18,8 @@ for scaling up and adding more input options (and only runs once). As size incre
 <br/>
 1. Download the version and open the folder on your desktop.
 <br/>
-2. Open the file in the folder with the file extension .sln (the solution) with Visual Studio
+2. Open the file in the folder with the file extension .sln (the solution) with Visual Studio.
+(Once opened- delete all the files that begin with a period in the solution explorer window provided by GitHub if there are any.)
 <br/>
 3. Click the green arrow at the top of Visual Studio and follow the prompts in the command line
 <br/>

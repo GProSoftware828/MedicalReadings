@@ -16,6 +16,8 @@ for scaling up and adding more input options (and only runs once). As size incre
 <br/>
 <h3 align="center">Instructions to Run Locally:</h3>
 <br/>
+<p>* This application purposely breaks SOLID principles since it is so tiny, to gain a very noticeable performance increase.</p>
+<br/>
 1. Download the version and open the folder on your desktop.
 <br/>
 2. Open the file in the folder with the file extension .sln (the solution) with Visual Studio.
